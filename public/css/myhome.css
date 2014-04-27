@@ -1,0 +1,11 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.header {
+    margin-bottom: 100px;
+}
+.footer {
+    padding-right: 0;
+    padding-left: 0;
+}
