@@ -1,7 +1,9 @@
 Restaurant-Locator
 ==================
 
-  1.This application is used to find nearest located restaurants to the logged users using their pin code.
+  Application is used to locate near by restaurant using pin code.
+  
+  Instructions to Install
   
   2.The Restaurants details are initially stored on database.
   
