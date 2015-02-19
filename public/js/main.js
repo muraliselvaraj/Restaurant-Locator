@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	console.log();
+	console.log('in');
 	$('.add').click(function () {
 		var comment = $('.comment-text').val(),
 		author = $('.author').val();
